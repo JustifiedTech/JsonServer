@@ -1,0 +1,14 @@
+{
+  "name": "Json-Server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+       "start": "json-server --watch src/db.json --port 5000"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+   
+  }
+}

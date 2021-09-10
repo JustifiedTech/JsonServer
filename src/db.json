@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    {
+      "task": "postman",
+      "date": "2021-06-17T08:52",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "task": "red",
+      "date": "2021-06-24T14:11",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "task": "Getter",
+      "date": "",
+      "reminder": true,
+      "id": 10
+    },
+    {
+      "task": "remin",
+      "date": "2021-07-02T09:16",
+      "reminder": true,
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "JustifiedTech",
+      "fullname": "Kelechi Brian",
+      "role": "admin",
+      "password": 12345
+    },
+    {
+      "id": 2,
+      "username": "jonny",
+      "fullname": "John Doe",
+      "role": "user",
+      "password": 12345
+    },
+    {
+      "id": 3,
+      "username": "jenny",
+      "fullname": "Jane Doe",
+      "role": "user",
+      "password": 12345
+    }
+  ]
+}
